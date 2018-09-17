@@ -8,4 +8,5 @@ Check also out the 00_filename.md
 3.  SP-IDEs (Eclipse, VScode, VSstudio, VIM, Notepad)
 4.  SP-DevOps (Jenkings, Gitlab, Amazon, Google Cloud, Azure)
 
-:N> Consolidate old documents 
+MON  17.09.18
+I testing the use of VScode , git bash , github.
