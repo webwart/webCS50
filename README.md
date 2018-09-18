@@ -22,3 +22,4 @@ N:
 - add a python virtuell environment
 - work with django in Win10 (venv), WSL , Docker, and uberspace
 - work with databases sqlLite, mySQL , postSQL
+Git Test
