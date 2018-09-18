@@ -29,3 +29,6 @@ Git Test NapRai-Commit-push-github-pull-MilRai-modify-sync-NapRai-commit-push-gi
 "
 - Without modification of README.md by MilRai - GIT says nothing ; SYNC notices different date and overwrites
 Git Test NapRai-Commit-push-github-pull-MilRai-modify-sync-NapRai
+
+21:28 - "MilRai: sync-MilRai-commit" 
+21:30 - "MilRai: sync-MilRai-commit-modify-push"
