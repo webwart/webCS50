@@ -22,3 +22,10 @@ N:
 - add a python virtuell environment
 - work with django in Win10 (venv), WSL , Docker, and uberspace
 - work with databases sqlLite, mySQL , postSQL
+
+TUE  18-09-2018
+- With modification of README.md by MilRai - GIT / VScode sees difference and asks for add/commit ; SYNC notices different data and overwrites
+Git Test NapRai-Commit-push-github-pull-MilRai-modify-sync-NapRai-commit-push-github/NapRai
+"
+- Without modification of README.md by MilRai - GIT says nothing ; SYNC notices different date and overwrites
+Git Test NapRai-Commit-push-github-pull-MilRai-modify-sync-NapRai
