@@ -33,7 +33,16 @@ Git Test NapRai-Commit-push-github-pull-MilRai-modify-sync-NapRai
 21:28 - "MilRai: sync-MilRai-commit" 
 21:30 - "MilRai: sync-MilRai-commit-modify-push"
 
+
+FRI 21-09-2018
+
 Win10 ; Alt + TAB => wechseln von Fenstern
 VScode ; CTR + s => speichern der Datei
 Chrome ; CTR + r => Seite neu laden
 
+9:00  wanted to commit but could not since I had first to pull from master/origin. Since files were identical no merge was necessary.
+* Shall I always start with PULL and finish with request ?
+* 
+9:41 commit of README.md
+
+9:58 Pull NapRai Modify Commit Push Github
