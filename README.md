@@ -46,3 +46,10 @@ Chrome ; CTR + r => Seite neu laden
 9:41 commit of README.md
 
 9:58 Pull NapRai Modify Commit Push Github
+
+12:57 Work on NapRai
+
+14:37 NapRai ; added files from src0 ; Files with -Kopie are the original and are not modified ; I modified lists
+
+>N: Test git reflog on MilRai. Should show all local commits
+>N: 00:47:00	HTML ; adding links to a file (cat.jpg)
